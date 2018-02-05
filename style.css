@@ -13,11 +13,7 @@
     font-size: large;
     text-align: center;
 }
-.imageContent{
-    max-height:100%;
-    max-width:100%;
-    color: chartreuse;
-}
+
 .list-group-item{
     background-color: #534BAE;
     border: 3px solid #000 ; 
